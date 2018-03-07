@@ -4253,3 +4253,11 @@ table thead .checkbox.radio { margin-top:-7px;margin-top:-21px; }
     background-color: #ffff !important;
 }
 /** /bootstrap-datetimepicker **/
+
+.wblogo {
+        display: inline-block;
+        width:30px;
+        height:30px;
+        background: url('/images/wbtemp.png');
+        background-size:cover;
+      }
